@@ -1,0 +1,11 @@
+.layout {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100%;
+    .coming-soon {
+        font-size: xx-large;
+        color: rgba($color: #000000, $alpha: 1.0);
+    }
+}
